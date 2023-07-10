@@ -13,8 +13,8 @@ class Soldier {
     }
 }
 
-const strength = 10; // Valor de ejemplo para la propiedad strength
-const health = 100; // Valor de ejemplo para la propiedad health
+const strength = 10; 
+const health = 100;
 
 const soldier = new Soldier(health, strength);
 
